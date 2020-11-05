@@ -1,0 +1,39 @@
+.headLayout{
+    min-width: 997px;
+    width: 100%;
+    max-width: 100%;  
+    position: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+.btnSearch{
+    position: absolute;
+    right: 8px;
+    z-index: 3; 
+}
+.btnSearch:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+.formCont{
+    border-radius: 1rem !important;
+    outline: none !important;
+    box-shadow: none !important;
+    padding-right: 2.2rem;
+}
+.formCont:focus{
+    border-color:darkorange;
+}
+.formCont::-webkit-search-cancel-button, .formCont::-ms-clear{
+    display: none !important;
+}
+.custom-select{
+    border-radius: 1rem !important;    
+}
+.navbar{
+    background-color: white !important;
+    box-shadow: 0 0 15px rgb(230,230,230);
+}

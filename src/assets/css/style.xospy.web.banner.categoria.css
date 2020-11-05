@@ -1,0 +1,44 @@
+.banner-categoria{
+    padding-top: 2rem;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    height: 32rem;
+}
+.bannertop{
+    width: 70%;
+    height: 15rem;
+    position: absolute;
+    left: 0;
+    top: 2rem;
+    overflow: hidden;
+}
+.bannertop > img, .bannerleft > img{
+    width: 100%;
+    height: auto;    
+}
+.bannerright > img{
+    width: auto;
+    height: 100%;    
+}
+.bannerleft{
+    width: 70%;
+    height: 15rem;
+    position: absolute;
+    left: 0;
+    top: 17rem;
+    overflow: hidden;
+}
+.bannerright{
+    width: 30%;
+    height: 30rem;
+    position: absolute;
+    right: 0;
+    top: 2rem;
+    overflow: hidden;    
+}
+.textBanner{
+    position: absolute;    
+}

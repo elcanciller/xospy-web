@@ -1,0 +1,11 @@
+.carrousel{
+    padding-top: 5.1rem;
+    position: relative;
+    width: 100%;
+    min-width: 997px;
+    max-width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+}

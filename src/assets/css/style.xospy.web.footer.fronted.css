@@ -1,0 +1,16 @@
+.FooterFronted{
+    padding-top: 2rem;
+}
+.logofooter{
+    width: 50px;
+    height: 50px;
+}
+.jumbotron{
+    padding-bottom: 0 !important;
+    margin: 0 !important;
+    background-color: white;
+    box-shadow: 0 0 15px rgb(230,230,230);
+}
+.footerRight{
+    border-right: 2px solid rgb(230,230,230);
+}
