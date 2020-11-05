@@ -1,4 +1,4 @@
-# xospy-web2
+# xospy-web
 
 ## Project setup
 ```
